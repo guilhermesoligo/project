@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(101, 101, 206);
+    font: normal 45px DejaVu Sans Mono, monospace;
+    text-align: center;
+}
+div {
+    margin: auto;
+    padding: 10px;
+
+}
+section {
+    background: white;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+footer {
+    font: italic 15pt arial;
+    padding: 10px;
+    text-align: center;
+    margin-top: 25px;
+}
